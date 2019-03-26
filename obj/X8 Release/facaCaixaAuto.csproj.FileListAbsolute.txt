@@ -1,0 +1,10 @@
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto\facaCaixaAuto\obj\X8 Release\facaCaixaAuto.csprojAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto\facaCaixaAuto\obj\X8 Release\CorelStyles\Colors.baml
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto\facaCaixaAuto\obj\X8 Release\CorelStyles\Styles.baml
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto\facaCaixaAuto\obj\X8 Release\FacaCaixaAutoUI.baml
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto\facaCaixaAuto\obj\X8 Release\FacaCaixaAutoUI.g.cs
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto\facaCaixaAuto\obj\X8 Release\facaCaixaAuto_MarkupCompile.cache
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto\facaCaixaAuto\obj\X8 Release\facaCaixaAuto.g.resources
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto\facaCaixaAuto\obj\X8 Release\Bonus630.vsta.FacaCaixaAuto.Properties.Resources.resources
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto\facaCaixaAuto\obj\X8 Release\facaCaixaAuto.csproj.GenerateResource.cache
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto\facaCaixaAuto\obj\X8 Release\facaCaixaAuto.csproj.CoreCompileInputs.cache

@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4BFAEF04-B4F1-47C9-B5D0-D42229E68313}</ProjectGuid>
+    <OutputType>library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bonus630.vsta.FacaCaixaAuto</RootNamespace>
+    <AssemblyName>facaCaixaAuto</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'X7 Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;X7</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'X7 Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\X7\</OutputPath>
+    <OutDir>bin\Release\X7\$(SolutionName)</OutDir>
+    <DefineConstants>TRACE;X7</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == '2018 Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;X10</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == '2018 Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\2018\</OutputPath>
+    <OutDir>bin\Release\2018\$(SolutionName)</OutDir>
+    <DefineConstants>TRACE;X10</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'X8 Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;X8</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'X8 Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\X8\</OutputPath>
+    <OutDir>bin\Release\X8\$(SolutionName)</OutDir>
+    <DefineConstants>TRACE;X8</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == '2017 Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;X9</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == '2017 Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\2017\</OutputPath>
+    <OutDir>bin\Release\2017\$(SolutionName)</OutDir>
+    <DefineConstants>TRACE;X9</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == '2019 Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;X11</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == '2019 Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\2017\</OutputPath>
+    <OutDir>bin\Release\2017\$(SolutionName)</OutDir>
+    <DefineConstants>TRACE;X11</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup Label="VGCoreReferences">
+    <Reference Label="X8Reference" Include="c:\program files\corel\coreldraw graphics suite x8\programs64\Assemblies\Corel.Interop.VGCore.dll" Condition="'$(Configuration)'=='X8 Debug'">
+      <Name>Corel.Interop.VGCore</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Label="X10Reference" Include="c:\program files\corel\coreldraw graphics suite 2018\programs64\Assemblies\Corel.Interop.VGCore.dll" Condition="'$(Configuration)'=='2018 Debug'">
+      <Name>Corel.Interop.VGCore</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Label="X8Reference" Include="c:\program files\corel\coreldraw graphics suite x8\programs64\Assemblies\Corel.Interop.VGCore.dll" Condition="'$(Configuration)'=='X8 Release'">
+      <Name>Corel.Interop.VGCore</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Label="X10Reference" Include="c:\program files\corel\coreldraw graphics suite 2018\programs64\Assemblies\Corel.Interop.VGCore.dll" Condition="'$(Configuration)'=='2018 Release'">
+      <Name>Corel.Interop.VGCore</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Label="X7Reference" Include="c:\program files\corel\coreldraw graphics suite x7\programs64\Assemblies\Corel.Interop.VGCore.dll" Condition="'$(Configuration)'=='X7 Debug'">
+      <Name>Corel.Interop.VGCore</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Label="X9Reference" Include="c:\program files\corel\coreldraw graphics suite 2017\programs64\Assemblies\Corel.Interop.VGCore.dll" Condition="'$(Configuration)'=='2017 Debug'">
+      <Name>Corel.Interop.VGCore</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Label="X7Reference" Include="c:\program files\corel\coreldraw graphics suite x7\programs64\Assemblies\Corel.Interop.VGCore.dll" Condition="'$(Configuration)'=='X7 Release'">
+      <Name>Corel.Interop.VGCore</Name>
+      <Private>False</Private>
+    </Reference>
+    <Reference Label="X9Reference" Include="c:\program files\corel\coreldraw graphics suite 2017\programs64\Assemblies\Corel.Interop.VGCore.dll" Condition="'$(Configuration)'=='2017 Release'">
+      <Name>Corel.Interop.VGCore</Name>
+      <Private>False</Private>
+    </Reference>
+  <Reference Label="X11Reference" Include="c:\program files\corel\coreldraw graphics suite 2019\programs64\Assemblies\Corel.Interop.VGCore.dll" Condition="'$(Configuration)'=='2019 Release'">
+      <Name>Corel.Interop.VGCore</Name>
+      <Private>False</Private>
+    </Reference>
+        <Reference Label="X11Reference" Include="c:\program files\corel\coreldraw graphics suite 2019\programs64\Assemblies\Corel.Interop.VGCore.dll" Condition="'$(Configuration)'=='2019 Debug'">
+      <Name>Corel.Interop.VGCore</Name>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="CorelStyles\Colors.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CorelStyles\Styles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="FacaCaixaAutoUI.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="BitmapResources.cs" />
+    <Compile Include="CorelStyles\StyleController.cs" />
+    <Compile Include="FacaAuto.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FacaBase.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FacaCase.cs" />
+    <Compile Include="FacaManager.cs" />
+    <Compile Include="FacaPolyBase.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FacaRectBase.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FacaSemiAuto.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="IFaca.cs" />
+    <Compile Include="Linha.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ReducaoConcentrica.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SextSimples.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TabSecure.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FacaCaixaAutoUI.xaml.cs">
+      <DependentUpon>FacaCaixaAutoUI.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CorelDrw.addon" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonus630.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="AppUI.xslt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="UserUI.xslt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup Condition="'$(Configuration)'=='X8 Debug'">
+    <PostBuildEvent>
+      if not exist "c:\program files\corel\coreldraw graphics suite x8\programs64\addons\$(SolutionName)" md "c:\program files\corel\coreldraw graphics suite x8\programs64\addons\$(SolutionName)"
+      copy "$(ProjectDir)bin\Debug\$(TargetFileName)" "c:\program files\corel\coreldraw graphics suite x8\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)CorelDrw.addon" "c:\program files\corel\coreldraw graphics suite x8\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)AppUI.xslt" "c:\program files\corel\coreldraw graphics suite x8\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)UserUI.xslt" "c:\program files\corel\coreldraw graphics suite x8\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)bin\Debug\$(SolutionName).pdb" "c:\program files\corel\coreldraw graphics suite x8\programs64\addons\$(SolutionName)" /y
+      RD /S /Q "%appdata%\corel\CorelDRAW Graphics Suite X8\Draw\Workspace"
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Label="X8BuildCopyCommand" Condition="'$(Configuration)'=='X8 Release'">
+    <PostBuildEvent>
+      if not exist "c:\program files\corel\coreldraw graphics suite x8\programs64\addons\$(SolutionName)" md "c:\program files\corel\coreldraw graphics suite x8\programs64\addons\$(SolutionName)"
+      copy "$(ProjectDir)bin\Release\X8\$(SolutionName)\$(TargetFileName)" "c:\program files\corel\coreldraw graphics suite x8\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)CorelDrw.addon" "c:\program files\corel\coreldraw graphics suite x8\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)AppUI.xslt" "c:\program files\corel\coreldraw graphics suite x8\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)UserUI.xslt" "c:\program files\corel\coreldraw graphics suite x8\programs64\addons\$(SolutionName)" /y
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)'=='X7 Debug'">
+    <PostBuildEvent>
+      if not exist "c:\program files\corel\coreldraw graphics suite x7\programs64\addons\$(SolutionName)" md "c:\program files\corel\coreldraw graphics suite x7\programs64\addons\$(SolutionName)"
+      copy "$(ProjectDir)bin\Debug\$(TargetFileName)" "c:\program files\corel\coreldraw graphics suite x7\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)CorelDrw.addon" "c:\program files\corel\coreldraw graphics suite x7\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)AppUI.xslt" "c:\program files\corel\coreldraw graphics suite x7\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)UserUI.xslt" "c:\program files\corel\coreldraw graphics suite x7\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)bin\Debug\$(SolutionName).pdb" "c:\program files\corel\coreldraw graphics suite x7\programs64\addons\$(SolutionName)" /y
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Label="X7BuildCopyCommand" Condition="'$(Configuration)'=='X7 Release'">
+    <PostBuildEvent>
+      if not exist "c:\program files\corel\coreldraw graphics suite x7\programs64\addons\$(SolutionName)" md "c:\program files\corel\coreldraw graphics suite x7\programs64\addons\$(SolutionName)"
+      copy "$(ProjectDir)bin\Release\X8\$(SolutionName)\$(TargetFileName)" "c:\program files\corel\coreldraw graphics suite x7\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)CorelDrw.addon" "c:\program files\corel\coreldraw graphics suite x7\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)AppUI.xslt" "c:\program files\corel\coreldraw graphics suite x7\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)UserUI.xslt" "c:\program files\corel\coreldraw graphics suite x7\programs64\addons\$(SolutionName)" /y
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)'=='2017 Debug'">
+    <PostBuildEvent>
+      if not exist "c:\program files\corel\coreldraw graphics suite 2017\programs64\addons\$(SolutionName)" md "c:\program files\corel\coreldraw graphics suite 2017\programs64\addons\$(SolutionName)"
+      copy "$(ProjectDir)bin\Debug\$(TargetFileName)" "c:\program files\corel\coreldraw graphics suite 2017\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)CorelDrw.addon" "c:\program files\corel\coreldraw graphics suite 2017\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)AppUI.xslt" "c:\program files\corel\coreldraw graphics suite 2017\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)UserUI.xslt" "c:\program files\corel\coreldraw graphics suite 2017\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)bin\Debug\$(SolutionName).pdb" "c:\program files\corel\coreldraw graphics suite 2017\programs64\addons\$(SolutionName)" /y
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Label="X9BuildCopyCommand" Condition="'$(Configuration)'=='2017 Release'">
+    <PostBuildEvent>
+      if not exist "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)" md "c:\program files\corel\coreldraw graphics suite 2017\programs64\addons\$(SolutionName)"
+      copy "$(ProjectDir)bin\Release\2018\$(SolutionName)\$(TargetFileName)" "c:\program files\corel\coreldraw graphics suite 2017\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)CorelDrw.addon" "c:\program files\corel\coreldraw graphics suite 2017\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)AppUI.xslt" "c:\program files\corel\coreldraw graphics suite 2017\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)UserUI.xslt" "c:\program files\corel\coreldraw graphics suite 2017\programs64\addons\$(SolutionName)" /y
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)'=='2018 Debug'">
+    <PostBuildEvent>
+      if not exist "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)" md "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)"
+      copy "$(ProjectDir)bin\Debug\$(TargetFileName)" "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)CorelDrw.addon" "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)AppUI.xslt" "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)UserUI.xslt" "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)bin\Debug\$(SolutionName).pdb" "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)" /y
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Label="X10BuildCopyCommand" Condition="'$(Configuration)'=='2018 Release'">
+    <PostBuildEvent>
+      if not exist "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)" md "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)"
+      copy "$(ProjectDir)bin\Release\2018\$(SolutionName)\$(TargetFileName)" "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)CorelDrw.addon" "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)AppUI.xslt" "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)UserUI.xslt" "c:\program files\corel\coreldraw graphics suite 2018\programs64\addons\$(SolutionName)" /y
+    </PostBuildEvent>
+  </PropertyGroup>
+   <PropertyGroup Condition="'$(Configuration)'=='2019 Debug'">
+    <PostBuildEvent>
+      if not exist "c:\program files\corel\coreldraw graphics suite 2019\programs64\addons\$(SolutionName)" md "c:\program files\corel\coreldraw graphics suite 2019\programs64\addons\$(SolutionName)"
+      copy "$(ProjectDir)bin\Debug\$(TargetFileName)" "c:\program files\corel\coreldraw graphics suite 2019\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)CorelDrw.addon" "c:\program files\corel\coreldraw graphics suite 2019\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)AppUI.xslt" "c:\program files\corel\coreldraw graphics suite 2019\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)UserUI.xslt" "c:\program files\corel\coreldraw graphics suite 2019\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)bin\Debug\$(SolutionName).pdb" "c:\program files\corel\coreldraw graphics suite 2019\programs64\addons\$(SolutionName)" /y
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Label="X10BuildCopyCommand" Condition="'$(Configuration)'=='2019 Release'">
+    <PostBuildEvent>
+      if not exist "c:\program files\corel\coreldraw graphics suite 2019\programs64\addons\$(SolutionName)" md "c:\program files\corel\coreldraw graphics suite 2019\programs64\addons\$(SolutionName)"
+      copy "$(ProjectDir)bin\Release\2019\$(SolutionName)\$(TargetFileName)" "c:\program files\corel\coreldraw graphics suite 2019\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)CorelDrw.addon" "c:\program files\corel\coreldraw graphics suite 2019\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)AppUI.xslt" "c:\program files\corel\coreldraw graphics suite 2019\programs64\addons\$(SolutionName)" /y
+      copy "$(ProjectDir)UserUI.xslt" "c:\program files\corel\coreldraw graphics suite 2019\programs64\addons\$(SolutionName)" /y
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)'=='X8 Debug'">
+    <StartAction>Program</StartAction>
+    <StartProgram>c:\program files\corel\coreldraw graphics suite x8\programs64\CorelDRW.exe</StartProgram>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)'=='X8 Release'">
+    <StartAction>Program</StartAction>
+    <StartProgram>c:\program files\corel\coreldraw graphics suite x8\programs64\CorelDRW.exe</StartProgram>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)'=='X7 Debug'">
+    <StartAction>Program</StartAction>
+    <StartProgram>c:\program files\corel\coreldraw graphics suite x7\programs64\CorelDRW.exe</StartProgram>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)'=='X7 Release'">
+    <StartAction>Program</StartAction>
+    <StartProgram>c:\program files\corel\coreldraw graphics suite x7\programs64\CorelDRW.exe</StartProgram>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)'=='2018 Debug'">
+    <StartAction>Program</StartAction>
+    <StartProgram>c:\program files\corel\coreldraw graphics suite 2018\programs64\CorelDRW.exe</StartProgram>
+  </PropertyGroup>
+  <PropertyGroup Label="X10Startup" Condition="'$(Configuration)'=='2018 Release'">
+    <StartAction>Program</StartAction>
+    <StartProgram>c:\program files\corel\coreldraw graphics suite 2018\programs64\CorelDRW.exe</StartProgram>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)'=='2017 Debug'">
+    <StartAction>Program</StartAction>
+    <StartProgram>c:\program files\corel\coreldraw graphics suite 2017\programs64\CorelDRW.exe</StartProgram>
+  </PropertyGroup>
+  <PropertyGroup Label="X9Startup" Condition="'$(Configuration)'=='2017 Release'">
+    <StartAction>Program</StartAction>
+    <StartProgram>c:\program files\corel\coreldraw graphics suite 2017\programs64\CorelDRW.exe</StartProgram>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)'=='2019 Debug'">
+    <StartAction>Program</StartAction>
+    <StartProgram>c:\program files\corel\coreldraw graphics suite 2019\programs64\CorelDRW.exe</StartProgram>
+  </PropertyGroup>
+  <PropertyGroup Label="X11Startup" Condition="'$(Configuration)'=='2019 Release'">
+    <StartAction>Program</StartAction>
+    <StartProgram>c:\program files\corel\coreldraw graphics suite 2019\programs64\CorelDRW.exe</StartProgram>
+  </PropertyGroup>
+</Project>

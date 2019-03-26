@@ -1,0 +1,119 @@
+C:\Users\Reginaldo\Desktop\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Desktop\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Desktop\facaCaixaAuto\facaCaixaAuto\obj\Release\UserControl1.baml
+C:\Users\Reginaldo\Desktop\facaCaixaAuto\facaCaixaAuto\obj\Release\UserControl1.g.cs
+C:\Users\Reginaldo\Desktop\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto_MarkupCompile.cache
+C:\Users\Reginaldo\Desktop\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.g.resources
+C:\Users\Reginaldo\Desktop\facaCaixaAuto\facaCaixaAuto\obj\Release\Bonus630.vsta.FacaCaixaAuto.Properties.Resources.resources
+C:\Users\Reginaldo\Desktop\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Desktop\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.pdb
+C:\Users\bonus630\documents\visual studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.dll
+C:\Users\bonus630\documents\visual studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.pdb
+C:\Users\bonus630\documents\visual studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\UserControl1.baml
+C:\Users\bonus630\documents\visual studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\UserControl1.g.cs
+C:\Users\bonus630\documents\visual studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto_MarkupCompile.cache
+C:\Users\bonus630\documents\visual studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.g.resources
+C:\Users\bonus630\documents\visual studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\Bonus630.vsta.FacaCaixaAuto.Properties.Resources.resources
+C:\Users\bonus630\documents\visual studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.csproj.GenerateResource.Cache
+C:\Users\bonus630\documents\visual studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.dll
+C:\Users\bonus630\documents\visual studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Desktop\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.dll.config
+C:\Users\Reginaldo\Desktop\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Documents\Visual Studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.dll.config
+C:\Users\Reginaldo\Documents\Visual Studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Documents\Visual Studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Documents\Visual Studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\UserControl1.baml
+C:\Users\Reginaldo\Documents\Visual Studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\UserControl1.g.cs
+C:\Users\Reginaldo\Documents\Visual Studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto_MarkupCompile.cache
+C:\Users\Reginaldo\Documents\Visual Studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.g.resources
+C:\Users\Reginaldo\Documents\Visual Studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\Bonus630.vsta.FacaCaixaAuto.Properties.Resources.resources
+C:\Users\Reginaldo\Documents\Visual Studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Documents\Visual Studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Documents\Visual Studio 2010\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.pdb
+F:\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.dll.config
+F:\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.dll
+F:\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.pdb
+F:\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.csprojResolveAssemblyReference.cache
+F:\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\UserControl1.baml
+F:\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\UserControl1.g.cs
+F:\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto_MarkupCompile.cache
+F:\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.g.resources
+F:\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\Bonus630.vsta.FacaCaixaAuto.Properties.Resources.resources
+F:\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.csproj.GenerateResource.Cache
+F:\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.dll
+F:\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Desktop\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.dll.config
+C:\Users\Reginaldo\Desktop\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Desktop\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Desktop\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Desktop\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\UserControl1.baml
+C:\Users\Reginaldo\Desktop\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\UserControl1.g.cs
+C:\Users\Reginaldo\Desktop\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto_MarkupCompile.cache
+C:\Users\Reginaldo\Desktop\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.g.resources
+C:\Users\Reginaldo\Desktop\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\Bonus630.vsta.FacaCaixaAuto.Properties.Resources.resources
+C:\Users\Reginaldo\Desktop\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Desktop\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Desktop\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Desktop\desktopo note\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.dll.config
+C:\Users\Reginaldo\Desktop\desktopo note\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Desktop\desktopo note\Projects\facaCaixaAuto\facaCaixaAuto\bin\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Desktop\desktopo note\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Desktop\desktopo note\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\UserControl1.baml
+C:\Users\Reginaldo\Desktop\desktopo note\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\UserControl1.g.cs
+C:\Users\Reginaldo\Desktop\desktopo note\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto_MarkupCompile.cache
+C:\Users\Reginaldo\Desktop\desktopo note\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.g.resources
+C:\Users\Reginaldo\Desktop\desktopo note\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\Bonus630.vsta.FacaCaixaAuto.Properties.Resources.resources
+C:\Users\Reginaldo\Desktop\desktopo note\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Desktop\desktopo note\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Desktop\desktopo note\Projects\facaCaixaAuto\facaCaixaAuto\obj\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\facaCaixaAuto X7\facaCaixaAuto\bin\Release\facaCaixaAuto.dll.config
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\facaCaixaAuto X7\facaCaixaAuto\bin\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\facaCaixaAuto X7\facaCaixaAuto\bin\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\facaCaixaAuto X7\facaCaixaAuto\obj\Release\facaCaixaAuto.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\facaCaixaAuto X7\facaCaixaAuto\obj\Release\UserControl1.baml
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\facaCaixaAuto X7\facaCaixaAuto\obj\Release\UserControl1.g.cs
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\facaCaixaAuto X7\facaCaixaAuto\obj\Release\facaCaixaAuto_MarkupCompile.cache
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\facaCaixaAuto X7\facaCaixaAuto\obj\Release\facaCaixaAuto.g.resources
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\facaCaixaAuto X7\facaCaixaAuto\obj\Release\Bonus630.vsta.FacaCaixaAuto.Properties.Resources.resources
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\facaCaixaAuto X7\facaCaixaAuto\obj\Release\facaCaixaAuto.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\facaCaixaAuto X7\facaCaixaAuto\obj\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Documents\Area Trabalho\Projects\facaCaixaAuto X7\facaCaixaAuto\obj\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X7 - Docker\facaCaixaAuto\bin\Release\facaCaixaAuto.dll.config
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X7 - Docker\facaCaixaAuto\bin\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X7 - Docker\facaCaixaAuto\bin\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X7 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X7 - Docker\facaCaixaAuto\obj\Release\FacaCaixaAutoUI.baml
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X7 - Docker\facaCaixaAuto\obj\Release\FacaCaixaAutoUI.g.cs
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X7 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto_MarkupCompile.cache
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X7 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.g.resources
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X7 - Docker\facaCaixaAuto\obj\Release\Bonus630.vsta.FacaCaixaAuto.Properties.Resources.resources
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X7 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X7 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X7 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\bin\Release\facaCaixaAuto.dll.config
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\bin\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\bin\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\obj\Release\Interop.VGCore.dll
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.csproj.ResolveComReference.cache
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\obj\Release\FacaCaixaAutoUI.baml
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\obj\Release\FacaCaixaAutoUI.g.cs
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto_MarkupCompile.cache
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.g.resources
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\obj\Release\Bonus630.vsta.FacaCaixaAuto.Properties.Resources.resources
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto X8 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto 2017 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.csprojResolveAssemblyReference.cache
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto 2017 - Docker\facaCaixaAuto\obj\Release\FacaCaixaAutoUI.baml
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto 2017 - Docker\facaCaixaAuto\obj\Release\FacaCaixaAutoUI.g.cs
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto 2017 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto_MarkupCompile.cache
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto 2017 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.g.resources
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto 2017 - Docker\facaCaixaAuto\obj\Release\Bonus630.vsta.FacaCaixaAuto.Properties.Resources.resources
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto 2017 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.csproj.GenerateResource.Cache
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto 2017 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto 2017 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto 2017 - Docker\facaCaixaAuto\bin\Release\facaCaixaAuto.dll.config
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto 2017 - Docker\facaCaixaAuto\bin\Release\facaCaixaAuto.dll
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto 2017 - Docker\facaCaixaAuto\bin\Release\facaCaixaAuto.pdb
+C:\Users\Reginaldo\Documents\Project C#\facaCaixaAuto 2017 - Docker\facaCaixaAuto\obj\Release\facaCaixaAuto.csproj.CoreCompileInputs.cache
